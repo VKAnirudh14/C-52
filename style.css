@@ -1,0 +1,25 @@
+h1{
+    color:aquamarine;
+}
+
+.INTRODUCTION{
+    background-color:red;
+    display:flex;
+    justify-content: space-between ;
+}
+
+.Game{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+h3{
+    color:aquamarine;
+    text-align: center;
+}
+
+h4{
+    color:blanchedalmond;
+    flex-wrap: wrap;
+}
+ 
